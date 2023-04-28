@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1682645649 source:z:\code\p2-grupo7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vehiculo.h"
+	"lsobbt.h"
+	"control-Est.h"
+
+1682645237 z:\code\p2-grupo7\vehiculo.h
+	<string.h>
+
+1682645600 z:\code\p2-grupo7\lsobbt.h
+
+1682645896 z:\code\p2-grupo7\control-est.h
+	"lsobbt.h"
+
